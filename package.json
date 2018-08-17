@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "An app that uses mysql and will tell users, managers, and supervisors about products and their stock levels",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaelor/bamazon.git"
+  },
+  "author": "Joshua Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaelor/bamazon/issues"
+  },
+  "homepage": "https://github.com/Chaelor/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
