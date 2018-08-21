@@ -16,7 +16,7 @@ function readProducts() {
     connection.query("select * from products", (err, res) => {
         if (err) throw err;
         console.log(res);
+        console.log(res.id[1].product_name);
     });
 };
 
-readProducts();
