@@ -1,5 +1,7 @@
 <a href="https://github.com/Chaelor/bamazon">GIT REPO</a>
 
+<b>BAMAZON</b>
+
 This is my first time working with MySQL and node together!<br>
 This app is a CLI based app that takes in arguments via the command line. Then, it will make calls to the database and post information requested by the user. <br>
 
